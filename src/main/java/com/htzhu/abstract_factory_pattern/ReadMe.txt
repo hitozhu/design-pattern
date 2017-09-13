@@ -1,0 +1,2 @@
+abstract-factory-pattern：抽象工厂模式
+围绕一个工厂创建其他工厂
